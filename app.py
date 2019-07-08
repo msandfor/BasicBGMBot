@@ -4,8 +4,8 @@ from flask import Flask, request
 from pymessenger.bot import Bot
 import os 
 app = Flask(__name__)
-ACCESS_TOKEN = 'ACCESS_TOKEN'   #ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
-VERIFY_TOKEN = 'VERIFY_TOKEN'   #VERIFY_TOKEN = os.environ['VERIFY_TOKEN']
+ACCESS_TOKEN = 'EAAIC2wVSWQYBALcZAbTP2a7XSGFuUkZBHTIxLAyCGbDO86NVOsxj6LKbxbLfKM4KelBgnjkutcpZA9pp4ZAvrnkUVgcN6ZBpXcZB6JsqMZC05gnEZBdI6JiZC5bsk1w8thv0RdTEpl1Ow7OX1NaZBQjcbXtNg29XfAOnud1ZC0GC8ZBZAEfZAlBWfdGNOZCZAnrnkSxxhZAoZD'   #ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
+VERIFY_TOKEN = 'KCkCRoVMroyJuBbmqRBDpuzCFnzNEtNcWuMvJroTtLqTHHBdzLTnBhEBVvZMRWit'   #VERIFY_TOKEN = os.environ['VERIFY_TOKEN']
 bot = Bot (ACCESS_TOKEN)
 
 #We will receive messages that Facebook sends our bot at this endpoint 
@@ -46,7 +46,7 @@ def verify_fb_token(token_sent):
 
 #chooses a random message to send to the user
 def get_message():
-    sample_responses = ["You are stunning!", "We're proud of you.", "Keep on being you!", "We're greatful to know you :)"]
+    sample_responses = ["You are smart!", "You're stronger than you think.", "Keep on being you!", "You got this :)", "You are glorious!", "It's an honour to know you", "I'm glad to have you in my life"]
     # return selected item to the user
     return random.choice(sample_responses)
 
