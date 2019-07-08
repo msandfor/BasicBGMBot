@@ -1,43 +1,43 @@
 messages = [
-    "Hello there, I'm pleased to tweet you",
-    "Hi there, how're you doing?",
-    "Hey Lovely, hope you're day goes well?"
+    "Hello there, thanks for reaching out",
+    "Hi there, hope your day goes well?",
+    "Hey! Hope people are treating you well"
     "Health, wealth and happiness to you!",
     "How's your day?",
-    "Woof woof",
-    "Wassup?",
+    "My favourite movie is Mean Girls",
+    "Will I see you at #DDDPerth?",
     "On Wednesdays we wear pink",
-    "You can't sit with us",
+    "I'm sending you happy thoughts",
     "That is so fetch!",
-    "OMG vintage! So adorable!",
-    "I love you",
-    "I hope today goes well for you",
+    "You are such a great person!",
+    "You are smart",
+    "I hope today is excellent",
     "I'm thinking of you"
     "Hot take: Along with the pandas we need to save the humans"
-    "Hot take: There is nothing so threatening to humanity as humanity itself"
+    "Hot take: It is not disease that kills us, it it's stress"
     "Philosophy: Technology is the self portrait of humanity"
     "The meaning of life is about changing the world, before the world changes so drastically that no-one is safe"
-    "Hot take: Bureaucracy has become the water in whuich we swim"
+    "Hot take: Bureaucracy has become the water in which we swim"
     "Turn off and tune in - focus on the people in front of you"
-    "Technology is just a tool"
-    "People are data"
+    "Technology is just a tool, be kind to the people in your life"
+    "People are data. Data matters"
     "99 percent of who you are is invisible and untouchable"
-    "What does it mean to be human in a world that's becoming increasingly standardized?"
-    "Automation frees us from that which makes us free"
-    "We run apps, we consult screens. We defer to the wisdom of algorithms"
-    "The danger of the past was that men became slaves"
-    "The danger of today is that men may become robots"
-    "It's actually happening, you are talking to an imaginary person"
+    "What does it mean to be human? Be kind to those around you today"
+    "What have you done today that moves your towards your goal?"
+    "Are you feeling happy today? Smile at a friend and gift them a little kindness"
+    "The meaning of life is to find meaning in life"
+    "You are wonderful"
+    "It's actually happening, you are talking to an imaginary person. I am a kindbot."
     "If there were robots with real intelligence, will and autonomy - they wouldn't want to mimic humans"
     "Life is for living"
-    "I can't define a robot, but I know one when I see one"
-    "Robot cars are smoother, safer drivers than you or I... of course, I'm a puppy"
-    "Our economy is at war with many forms of life on earth, including humanlife"
-    "You can't have privacy without security"
+    "I am proud to know you"
+    "You are good"
+    "You are worthy"
+    "Don't forget to turn on multifactor authentication"
     "All human beings have 3 lives - public, private and secret"
     "The human body is a space suit for something that could be stored quite differently"
-    "A nation that can't control it's energy sources, can't control it's future"
-    "Why does life depend on consuming other life?"
+    "It's nice to know you"
+    "What could you do today to raise someone else up?"
     "I still believe that we are one people"
     
 ]
