@@ -3,6 +3,7 @@ import os
 import random
 from flask import Flask, request
 from pymessenger.bot import Bot
+from messages import messages
 import os 
 app = Flask(__name__)
 ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
@@ -47,8 +48,10 @@ def verify_fb_token(token_sent):
 
 #chooses a random message to send to the user
 def get_message():
-    sample_responses = ["You are smart!", "You're stronger than you think.", "Keep on being you!", "You got this :)", "You are glorious!", "It's an honour to know you", "I'm glad to have you in my life"]
+    message = random.choice(messages)
+    # sample_responses = ["You are smart!", "You're stronger than you think.", "Keep on being you!", "You got this :)", "You are glorious!", "It's an honour to know you", "I'm glad to have you in my life"]
     # return selected item to the user
+    # return random.choice(sample_responses)
     return random.choice(sample_responses)
 
 #uses PyMessenger to send response to user
