@@ -52,7 +52,7 @@ def get_message():
     # sample_responses = ["You are smart!", "You're stronger than you think.", "Keep on being you!", "You got this :)", "You are glorious!", "It's an honour to know you", "I'm glad to have you in my life"]
     # return selected item to the user
     # return random.choice(sample_responses)
-    return random.choice(sample_responses)
+    return random.choice(messages)
 
 #uses PyMessenger to send response to user
 def send_message(recipient_id, response):
